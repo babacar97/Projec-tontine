@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  
+  
+}
+.membre{
+  position: relative;
+  top: -200px;
+}
+table{
+  background-color: white;
+}
+
+.table-responsive{
+  position:relative;
+  top: 30px;
+}
+
+th,h2{
+  text-transform : uppercase;
+}
+.liste{
+  background-color: wheat;
+}
